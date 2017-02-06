@@ -1,0 +1,22 @@
+{
+  "name": "angular-todo",
+  "description": "homework from lms",
+  "main": "index.js",
+  "authors": [
+    "golfoclock"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/golfoclock/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1"
+  }
+}
